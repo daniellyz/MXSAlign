@@ -1,0 +1,8 @@
+### About
+
+Developped by Youzhong LIU (youzhong.liu@u-bourgogne.fr) 
+
+Author Affiliation: UMR PAM Université de Bourgogne/Agrosup Dijon, Institut Universitaire de la Vigne et du Vin, Jules Guyot, Rue Claude Ladrey, Dijon, France 
+
+Powered by R Shiny.
+
